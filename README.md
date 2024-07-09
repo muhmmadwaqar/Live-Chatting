@@ -11,7 +11,6 @@ GIFs are attached at the end.
 - Node/Express for creating API endpoints
 - MongoDB for storing chat room members and their messages
 - Socket.io for making the app real-time
-
 ## Basic Features
 
 - Users can register/login via email and password.
